@@ -15,4 +15,5 @@ Para rodar
 
 ## Tela:
 
-![sitepessoal](https://github.com/IkaroChagas/personal-website/assets/100325726/4763f192-bd3c-4679-9bdf-77dc480a3a14)
+
+![sitepessoal](https://github.com/IkaroChagas/personal-website/assets/100325726/423396c4-7e75-40a2-898d-b166befa31ff)
