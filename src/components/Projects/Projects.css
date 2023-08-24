@@ -7,6 +7,7 @@
 .project-cards-container{
     display: flex;
     flex-direction: row;
+    margin: auto;
     flex-wrap: wrap;
     padding: 44px;
     justify-content: center;
@@ -67,5 +68,9 @@
     .project-card{
         width: 290px;
         min-height: 500px;
+    }
+
+    .project-header {
+        font-size: 45px; 
     }
 }

@@ -74,6 +74,9 @@
     .contact-form-container {
         width: 80%;
     }
+    .contact-me{
+        font-size: 45px;
+    }
 }
 .alert{
     text-align: center;

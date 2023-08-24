@@ -1,4 +1,3 @@
-import React from 'react'
 import "./Projects.css";
 import Header from "./../Header/Header.jsx"
 import Footer from "./../Footer/Footer.jsx"

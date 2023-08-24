@@ -66,4 +66,7 @@
     .about-main-left, .about-main-right{
         width: 100%;
     }
+    .heading {
+        font-size: 45px;
+    }
 }
