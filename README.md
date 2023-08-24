@@ -1,18 +1,18 @@
 ## Site Pessoal
 
-Site para colocar os projetos para portfólio
+Site para colocar os projetos do meu portfólio
 
 ##  Stacks
 
-ReactJS
+ReactJS + Libs
 
 Para rodar
 
 ```bash
-  yarn install
-  yarn start
+  npm install
+  npm run dev
 ```
 
 ## Tela:
 
-![sitepessoal](https://github.com/IkaroChagas/personal-site/assets/100325726/62f60635-69a0-483a-9787-c47506b95eed)
+![sitepessoal](https://github.com/IkaroChagas/personal-website/assets/100325726/4763f192-bd3c-4679-9bdf-77dc480a3a14)
