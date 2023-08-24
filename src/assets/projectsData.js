@@ -8,7 +8,7 @@ export const projectsData = [
     {
         projectName: 'Site Pessoal',
         projectDescription: 'Site pessoal para cololocar os projetos produzidos',
-        imageUrl: 'https://user-images.githubusercontent.com/100325726/263037717-4763f192-bd3c-4679-9bdf-77dc480a3a14.png',
+        imageUrl: 'https://user-images.githubusercontent.com/100325726/263039425-423396c4-7e75-40a2-898d-b166befa31ff.png',
         projectUrl: 'https://personal-website-gray-beta.vercel.app/',
     },
 ];
